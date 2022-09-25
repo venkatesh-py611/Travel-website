@@ -1,0 +1,640 @@
+.container{
+	display: flex;
+	background: rgba(0, 0, 0, 0.4);
+	height: 90px;
+	
+    
+}
+.item1{
+	position: relative;
+	top: 30px;
+	left: 40px;
+	color: white;
+
+}
+.item2 a{
+	text-decoration: none;
+	padding: 15px;
+	margin: 10px;
+	position: relative;
+	left: 150px;
+    top: 28px;
+    color: white;
+
+}
+.item3 button{
+	position: relative;
+	left: 300px;
+	top: 25px;
+	border-radius: 20px;
+	border-color:#DC8DF0  ;
+	color: white;
+	background:#DC8DF0   ;
+	font-size: 14px;
+	height: 40px;
+	width: 120px;
+
+}
+
+.background{
+	background: url("http://www.nicdarkthemes.com/themes/travel/wp/demo/love-travel/wp-content/uploads/sites/3/2018/11/parallax-2.jpg");
+	background-repeat: no-repeat;
+	background-size: cover;
+	width: 1520px;
+	height: 850px;
+}
+
+.container1{
+	display: flex;
+
+}
+.item4{
+	color: white;
+	position: relative;
+	top: 180px;
+	left: 500px;
+}
+.item4 h1{
+	font-size: 55px;
+}
+.item4 p{
+	font-size: 20px;
+	position: relative;
+	left: 100px;
+	top: -12px;
+	word-spacing: 10px;
+}
+.item4 input{
+    height: 38px;
+    width: 350px;
+    border-radius:25px ;
+    position: relative;
+    top: 15px;
+    left: 90px;
+    border-color: white;
+    background: white;
+}
+.item4 i{
+	position: relative;
+	top: 15px;
+	color: 
+#626567 ;
+	left: 50px;
+}
+.item4 input::placeholder{
+	position: relative;
+	left: 15px;
+	font-size: 15px;
+
+}
+.container2{
+	display: flex;
+	color: white;
+	position: relative;
+	top: 250px;
+    left: 500px;
+}
+.fa1{
+
+	background: rgba(0, 0, 0, 0.2);
+	 height: 120px;
+	 width: 110px;
+}
+.fa-masks-theater{
+	position: relative;
+	left: 25px;
+	top: 15px;
+	font-size: 40px;
+}
+.fa1 p{
+	position: relative;
+	left: 10px;
+	top: 10px;
+}
+.fa2{
+	background: rgba(0, 0, 0, 0.2);
+	 height: 120px;
+	 width: 110px;
+	 position: relative;
+	 left: 40px;
+
+}
+.fa-person-hiking{
+	position: relative;
+	left: 25px;
+	top: 15px;
+	font-size: 40px;
+}
+.fa2 p{
+	position: relative;
+	left: 15px;
+	top: 10px;
+}
+.fa3{
+	background: rgba(0, 0, 0, 0.2);
+	 
+	 height: 120px;
+	 width: 110px;
+	 position: relative;
+	 left: 70px;
+
+}
+.fa-camera-retro{
+	position: relative;
+	left: 25px;
+	top: 15px;
+	font-size: 40px;
+}
+.fa3 p{
+	position: relative;
+	left: 15px;
+	top: 10px;
+}
+.fa4{
+	background: rgba(0, 0, 0, 0.2);
+	 height: 120px;
+	 width: 110px;
+	 position: relative;
+	 left: 100px;
+
+}
+.fa-wine-glass{
+	position: relative;
+	left: 30px;
+	top: 15px;
+	font-size: 40px;
+}
+.fa4 p{
+	position: relative;
+	left: 15px;
+	top: 10px;
+}
+.container3{
+	text-align: center;
+	padding-top: 30px
+}
+.item6 p{
+	color:#909497  ;
+}
+.item7 h1{
+	text-decoration: underline;
+	text-decoration-color:#48C9B0;
+}
+.photo1 img{
+	height: 350px;
+	width: 400px;
+	border-radius: 4px;
+
+}
+.photo1 h3{
+	position: relative;
+	top: -100px;
+	left: 20px;
+	color: white;
+}
+.photo1 p{
+	position: relative;
+	top: -110px;
+	left: 20px;
+	color: white;
+}
+.photo2 img{
+	height: 350px;
+	width: 400px;
+	border-radius: 4px;
+
+}
+.photo2 h3{
+	position: relative;
+	top: -100px;
+	left: 20px;
+	color: white;
+}
+.photo2 p{
+	position: relative;
+	top: -110px;
+	left: 20px;
+	color: white;
+}
+.photo3 img{
+	height: 350px;
+	width: 400px;
+	border-radius: 4px;
+
+}
+.photo3 h3{
+	position: relative;
+	top: -100px;
+	left: 20px;
+	color: white;
+}
+.photo3 p{
+	position: relative;
+	top: -110px;
+	left: 20px;
+	color: white;
+}
+.container4{
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 20px;
+}
+.photo4 img{
+	height: 350px;
+	width: 400px;
+	border-radius: 4px;
+
+}
+.photo4 h3{
+	position: relative;
+	top: -100px;
+	left: 20px;
+	color: white;
+}
+.photo4 p{
+	position: relative;
+	top: -110px;
+	left: 20px;
+	color: white;
+}
+.photo5 img{
+	height: 350px;
+	width: 400px;
+	border-radius: 4px;
+
+}
+.photo5 h3{
+	position: relative;
+	top: -100px;
+	left: 20px;
+	color: white;
+}
+.photo5 p{
+	position: relative;
+	top: -110px;
+	left: 20px;
+	color: white;
+}
+.photo6 img{
+	height: 350px;
+	width: 400px;
+	border-radius: 4px;
+
+}
+.photo6 h3{
+	position: relative;
+	top: -100px;
+	left: 20px;
+	color: white;
+}
+.photo6 p{
+	position: relative;
+	top: -110px;
+	left: 20px;
+	color: white;
+}
+.container5{
+	display: flex;
+	justify-content: space-evenly;
+	position: relative;
+	top: -50px;
+}
+.part2 img{
+	height: 400px;
+	width: 700px;
+	position: relative;
+	left: 200px;
+	border-radius: 2px;
+}
+.container6{
+	display: flex;
+}
+.part1{
+	position: relative;
+	left: 80px;
+}
+.part1 p{
+	color:#909497  ;
+}
+.part1 h1{
+	font-size: 40px;
+	text-decoration: underline;
+	text-decoration-color:#48C9B0 ;
+	position: relative;
+	top: -15px;
+}
+.part1 p{
+	word-spacing: 3px;
+	font-size: 16px;
+
+}
+.part1 span{
+	color: black;
+	font-size: ;
+}
+.part1 #one{
+	font-size: 32px;
+}
+.part1 del{
+	font-size: 32px;
+}
+.part1 button{
+	background-color: #06BF70 ;
+	color: white;
+	border-radius: 16px;
+	width: 120px;
+	height: 30px;
+    font-weight: bold;
+	border-color: #06BF70;
+}
+.container7{
+	display: flex;
+	padding-top: 70px;
+	justify-content: space-evenly;
+}
+.fa-earth-americas{
+	font-size: 45px;
+	color:#909497 ;
+}
+.fa-ship{
+	font-size: 45px;
+	color:#909497 ;
+}
+.fa-gopuram{
+	font-size: 45px;
+	color:#909497 ;
+}
+.world h2{
+	position: relative;
+	top: -50px;
+	left: 60px;
+	font-weight: bold;
+}
+.cruises h2{
+	position: relative;
+	top: -50px;
+	left: 60px;
+	font-weight: bold;
+}
+.Best h2{
+	position: relative;
+	top: -50px;
+	left: 60px;
+	font-weight: bold;
+}
+.world p{
+	position: relative;
+	left: 58px;
+	top: -50px;
+	word-spacing: 2px;
+	color:#909497 ;
+}
+.cruises p{
+	position: relative;
+	left: 58px;
+	top: -50px;
+	word-spacing: 2px;
+	color:#909497 ;
+}
+.Best p{
+	position: relative;
+	left: 58px;
+	top: -50px;
+	word-spacing: 2px;
+	color:#909497 ;
+}
+.world a{
+	position: relative;
+	left: 58px;
+	top: -50px;
+	text-decoration: none;
+	color: #00FFDC ;
+}
+.cruises a{
+	position: relative;
+	left: 58px;
+	top: -50px;
+	text-decoration: none;
+	color: #00FFDC ;
+}
+.Best a{
+	position: relative;
+	left: 58px;
+	top: -50px;
+	text-decoration: none;
+	color: #00FFDC ;
+}
+.container8{
+	text-align: center;
+	padding-top: 30px
+}
+.item10 p{
+	color:#909497  ;
+}
+.item11 h1{
+	text-decoration: underline;
+	text-decoration-color:#48C9B0;
+}
+.photo7 img{
+	height: 250px;
+	width: 400px;
+}
+.photo8 img{
+	height: 250px;
+	width: 400px;
+}
+.photo9 img{
+	height: 250px;
+	width: 400px;
+}
+.container9{
+	display: flex;
+	justify-content: space-evenly;
+	padding-top: 30px;
+}
+.photo7 p{
+	position: relative;
+	top: -35px;
+	left: 20px;
+    color:#909497  ;
+}
+.photo9 p{
+	position: relative;
+	top: -35px;
+	left: 20px;
+    color:#909497  ;
+}
+.photo8 p{
+	position: relative;
+	top: -35px;
+	left: 20px;
+    color:#909497  ;
+}
+.fa-location-dot{
+	color: #909497 ;
+}
+.container10{
+	display: flex;
+	justify-content: space-evenly;
+}
+.the1{
+	position: relative;
+	left: -80px;
+	top: -30px;
+}
+.the2{
+	position: relative;
+	left: -60px;
+	top: -30px;
+}
+.the3{
+	position: relative;
+	left: -20px;
+	top: -30px;
+}
+.the1 span{
+	position: relative;
+	top: -70px;
+	left: 300px;
+	font-size: 30px;
+}
+.the2 span{
+	position: relative;
+	top: -70px;
+	left: 300px;
+	font-size: 30px;
+}
+.the3 span{
+	position: relative;
+	top: -70px;
+	left: 300px;
+	font-size: 30px;
+}
+
+#cul{
+	position: relative;
+	top: -10px;
+	color: black;
+
+
+}
+.the1 p{
+	color:#909497 ;
+	word-spacing: 3px;
+	position: relative;
+	top: -40px;
+	
+}
+.the2 p{
+	color:#909497 ;
+	word-spacing: 3px;
+	position: relative;
+	top: -40px;
+	
+}
+.the3 p{
+	color:#909497 ;
+	word-spacing: 3px;
+	position: relative;
+	top: -40px;
+	
+}
+.the1 button{
+	border-radius: 15px;
+	position: relative;
+	top: -37px;
+	width: 89px;
+	height: 28px;
+	color: white;
+	background: #ECDB0A ;
+	border-color: #ECDB0A ;
+}
+.the2 button{
+	border-radius: 15px;
+	position: relative;
+	top: -37px;
+	width: 89px;
+	height: 28px;
+	color: white;
+	background: red ;
+	border-color:red ;
+}
+.the3 button{
+	border-radius: 15px;
+	position: relative;
+	top: -37px;
+	width: 89px;
+	height: 28px;
+	color: white;
+	background: purple ;
+	border-color: purple ;
+}
+.final img{
+	background-size: cover;
+	height: 500px;
+	width: 1500px;
+
+}
+.finalcontent{
+	position: relative;
+	top: -380px;
+	left: 400px;
+    color: white;
+}
+.finalcontent input{
+	position: relative;
+	left:370px;
+	border-radius: 8px;
+	top: -60px;
+	border-color: white;
+}
+.finalcontent button{
+	position: relative;
+	left:370px;
+	border-radius: 8px;
+	top: -60px;
+	color: white;
+	background: #0DBBCF;
+	border-color: #0DBBCF;
+}
+.finalcontent h3{
+	color: black;
+}
+.finalcontent p{
+	font-size: 10px;
+	position: relative;
+	top: 10px;
+	left: 4px;
+}
+.box{
+	display: flex;
+}
+.boxs{
+	display: flex;
+}
+.bigboxs{
+	
+	padding: 20px;
+	position: relative;
+	top: -370px;
+	color: white;
+	background-color: transparent;
+	
+    
+   
+}
+.box1{
+	padding-left:210px ;
+}
+.box2{
+	position: relative;
+	left: 160px;
+}
+.box3{
+	position: relative;
+	left: 220px;
+}
+.box4{
+	position: relative;
+	left: 250px;
+}
